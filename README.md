@@ -1,6 +1,6 @@
 AIR QUALITY INDEX PREDICTION
 
-The main objective of this project is to identify the Most polluted City based on AQI value and to create a model to predict the quality of air.
+The main objective of this project is to identify the most polluted city based on AQI value and to create a model to predict the quality of air.
 
 The code is written in Python, .
 Libraries used: Numpy, Pandas, Matplotlib, sklearn, Random Forest Classifier.
